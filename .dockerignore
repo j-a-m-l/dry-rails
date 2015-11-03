@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.md
+LICENSE
+*.sh
+docker-compose.*.yml
+data/postgresql
